@@ -3,6 +3,9 @@
 A RESTful Blogging API built with **Node.js**, **Express**, **MongoDB** (via Mongoose), and **JWT** authentication.  
 Follows the **MVC** pattern and includes user authentication, blog CRUD operations, ownership checks, reading time calculation, pagination, search/filter/sort, and basic testing.
 
+**Live Demo:**  
+https://blog-api-ujg3.onrender.com
+
 ## Features
 
 - **User Authentication**
